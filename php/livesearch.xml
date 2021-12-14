@@ -1,0 +1,26 @@
+<pages>
+<link>
+<title>Air Jordan 1 </title>
+<url>http://localhost:8888/Online%20Store/php/airjordanblue.php</url>
+</link>
+<link>
+<title>Adidas Superstar</title>
+<url>http://localhost:8888/Online%20Store/php/addidassuperstar.php</url>
+</link>
+<link>
+<title>Converse UNT1TL3D Orange</title>
+<url>http://localhost:8888/Online%20Store/php/converseorange.php</url>
+</link>
+<link>
+<title>Vans Sport</title>
+<url>http://localhost:8888/Online%20Store/php/vanssport.php</url>
+</link>
+<link>
+<title>Nike Blazer</title>
+<url>http://localhost:8888/Online%20Store/php/nikeblazer.php</url>
+</link>
+<link>
+<title>Adidas Sam 4</title>
+<url>http://localhost:8888/Online%20Store/php/addidassam4.php</url>
+</link>
+</pages>
